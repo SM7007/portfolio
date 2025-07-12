@@ -789,3 +789,30 @@ b {
     background-color: black;
     color: white;
 }
+.rotate{
+    animation-name: spin;
+    animation-duration: 4s;
+  
+
+
+}
+@keyframes spin {
+    from{
+    
+    }
+    to{
+        transform: translateY(-320px) rotate(540deg);
+        
+
+    }
+    
+}
+.madara{
+    background-image: url(assets/download.jpeg);
+    color: white;
+    background-size: cover;
+    box-shadow:0px 0px 0px white;
+
+    
+};
+
