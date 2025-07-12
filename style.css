@@ -809,13 +809,15 @@ b {
     }
     
 }
-.madara{
+
+   .madara{
     background-image: url(assets/download.jpeg);
     color: white;
     background-size: cover;
-    box-shadow:0px 0px 0px white;
-
     
 };
+
+
+    
 
 
