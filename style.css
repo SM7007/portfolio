@@ -789,6 +789,7 @@ b {
     background-color: black;
     color: white;
 }
+
 .rotate{
     animation-name: spin;
     animation-duration: 4s;
@@ -815,4 +816,5 @@ b {
 
     
 };
+
 
