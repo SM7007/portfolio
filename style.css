@@ -181,9 +181,10 @@ header {
 #kunai {
     width: 100px;
     height: 50px;
-    animation-name: kunai;
-}
 
+}
+.k{
+    display:flex;
 
 
 }
